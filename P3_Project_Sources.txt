@@ -1,0 +1,28 @@
+Inserting into Mondgodb:
+http://api.mongodb.org/python/current/tutorial.html
+
+Update the road names
+https://yurinbo.wordpress.com/2014/04/15/mongodb-foreach-loop-to-update-part-of-a-field/
+https://docs.mongodb.org/getting-started/python/update/
+
+issue with translate()
+http://stackoverflow.com/questions/23175809/typeerror-translate-takes-one-argument-2-given-python
+
+convert to uppercase
+https://docs.mongodb.org/manual/reference/operator/aggregation/toUpper/
+
+regex checker
+https://regex101.com/
+
+regex how to
+https://docs.python.org/2/howto/regex.html
+
+check if a street name 'Harding' is in the postcode CH63 to see what the street type should be:
+https://www.streetcheck.co.uk/postcode/ch633hl
+
+get a percentage in mongodb
+http://stackoverflow.com/questions/31188966/get-percentages-with-mongodb-aggregate-group
+
+get filesize
+http://stackoverflow.com/questions/6080477/how-to-get-the-size-of-tar-gz-in-mb-file-in-python
+

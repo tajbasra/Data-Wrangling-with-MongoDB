@@ -1,0 +1,15 @@
+Map Position:
+
+Cheshire, England:
+https://www.openstreetmap.org/search?query=cheshire%20england#map=12/53.1667/-2.5833
+
+Description of the Area:
+Cheshire, England is in the midlands in England, it borders with Wales and the major cities nearby are Manchester
+(to the north) and Sheffield (north east).
+
+Reasons for Choice:
+Since I am based in the UK I wanted to select an area in this country because I thought I would have a better 
+understanding of the data in terms of postcode formats and typical street names.
+I initially chose London however this cross-section of data was too large for my computer to process. Cheshire 
+is an area I visited often, and since it is one of the lesser known areas in England, I thought there was a
+possibility that data from this region would be less 'clean' and therefore more interesting to analyse.
